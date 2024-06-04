@@ -2,10 +2,10 @@ Chapter 1. BREAD
 
 Recipe 1.1: Basic bread
 Ingredients:
-   - flower
-   - salt
-   - water
-   - yeast
+   - flower (4 cups)
+   - salt (1 teaspoon)
+   - water ( 600 mL)
+   - yeast ( 1 teaspoon)
 
 Instructions:
 	- mix ingredients
